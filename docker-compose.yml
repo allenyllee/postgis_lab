@@ -1,0 +1,16 @@
+version: '3'
+services:
+  pgadmin4:
+    image: dpage/pgadmin4:latest
+    restart: always
+    environment:
+      PGADMIN_DEFAULT_EMAIL: ${PGADMIN_DEFAULT_EMAIL:-pgadmin4@pgadmin.org}
+      PGADMIN_DEFAULT_PASSWORD: ${PGADMIN_DEFAULT_PASSWORD:-admin}
+    ports:
+      - 9080:80
+    volumes:
+      - pgadmin-data:/var/lib/pgadmin
+
+volumes:
+#  db-data:
+ pgadmin-data:
