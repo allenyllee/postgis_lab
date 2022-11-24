@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="top_20_highest_death_rate_pharmarcy" id="top_20_highest_death_rate_pharmarcy">
+	<SimpleField name="county2" type="string"></SimpleField>
+	<SimpleField name="p_tot" type="float"></SimpleField>
+	<SimpleField name="indigenous_ratio" type="float"></SimpleField>
+	<SimpleField name="death_rate" type="float"></SimpleField>
+	<SimpleField name="p_serv" type="float"></SimpleField>
+	<SimpleField name="addr" type="string"></SimpleField>
+	<SimpleField name="tel" type="string"></SimpleField>
+</Schema>
+<Folder><name>top_20_highest_death_rate_pharmarcy</name>
+  <Placemark>
+	<name>屏東縣霧台鄉衛生所</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_death_rate_pharmarcy">
+		<SimpleData name="county2">屏東縣霧臺鄉</SimpleData>
+		<SimpleData name="p_tot">2273</SimpleData>
+		<SimpleData name="indigenous_ratio">0.83457985041795</SimpleData>
+		<SimpleData name="death_rate">0.010998680158381</SimpleData>
+		<SimpleData name="p_serv">2273</SimpleData>
+		<SimpleData name="addr">屏東縣霧台鄉霧台村神山巷68號</SimpleData>
+		<SimpleData name="tel">08 -7902232</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.726129,22.749889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>屏東縣瑪家鄉衛生所</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_death_rate_pharmarcy">
+		<SimpleData name="county2">屏東縣瑪家鄉</SimpleData>
+		<SimpleData name="p_tot">4840</SimpleData>
+		<SimpleData name="indigenous_ratio">0.965909090909091</SimpleData>
+		<SimpleData name="death_rate">0.0103305785123967</SimpleData>
+		<SimpleData name="p_serv">4840</SimpleData>
+		<SimpleData name="addr">屏東縣瑪家鄉北葉村風景巷86號</SimpleData>
+		<SimpleData name="tel">08 -7991164</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.650058,22.708091</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>新竹縣五峰鄉衛生所</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_death_rate_pharmarcy">
+		<SimpleData name="county2">新竹縣五峰鄉</SimpleData>
+		<SimpleData name="p_tot">4470</SimpleData>
+		<SimpleData name="indigenous_ratio">0.9082774049217</SimpleData>
+		<SimpleData name="death_rate">0.0100671140939597</SimpleData>
+		<SimpleData name="p_serv">4470</SimpleData>
+		<SimpleData name="addr">新竹縣五峰鄉大隘村六鄰99號</SimpleData>
+		<SimpleData name="tel">03 -5851005</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.119384,24.63184</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>屏東縣獅子鄉衛生所</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_death_rate_pharmarcy">
+		<SimpleData name="county2">屏東縣獅子鄉</SimpleData>
+		<SimpleData name="p_tot">4896</SimpleData>
+		<SimpleData name="indigenous_ratio">0.947099673202614</SimpleData>
+		<SimpleData name="death_rate">0.00980392156862745</SimpleData>
+		<SimpleData name="p_serv">4896</SimpleData>
+		<SimpleData name="addr">屏東縣獅子鄉楓林村楓林二巷31號</SimpleData>
+		<SimpleData name="tel">08 -8771324</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.704805,22.202042</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>花蓮縣卓溪鄉衛生所</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_death_rate_pharmarcy">
+		<SimpleData name="county2">花蓮縣卓溪鄉</SimpleData>
+		<SimpleData name="p_tot">6046</SimpleData>
+		<SimpleData name="indigenous_ratio">0.955011577902746</SimpleData>
+		<SimpleData name="death_rate">0.00942772080714522</SimpleData>
+		<SimpleData name="p_serv">6046</SimpleData>
+		<SimpleData name="addr">花蓮縣卓溪鄉卓溪村６鄰中正６５號</SimpleData>
+		<SimpleData name="tel">(03)8882592</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.304189,23.345992</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>台東縣海端鄉衛生所</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_death_rate_pharmarcy">
+		<SimpleData name="county2">臺東縣海端鄉</SimpleData>
+		<SimpleData name="p_tot">3822</SimpleData>
+		<SimpleData name="indigenous_ratio">0.916274201988488</SimpleData>
+		<SimpleData name="death_rate">0.00941915227629513</SimpleData>
+		<SimpleData name="p_serv">3822</SimpleData>
+		<SimpleData name="addr">台東縣海端鄉海端村3鄰29號</SimpleData>
+		<SimpleData name="tel">089-931391</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.176693,23.100942</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>新北市平溪區衛生所</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_death_rate_pharmarcy">
+		<SimpleData name="county2">新北市平溪區</SimpleData>
+		<SimpleData name="p_tot">4524</SimpleData>
+		<SimpleData name="indigenous_ratio">0.00464190981432361</SimpleData>
+		<SimpleData name="death_rate">0.00906277630415561</SimpleData>
+		<SimpleData name="p_serv">4524</SimpleData>
+		<SimpleData name="addr">新北市平溪區公園街17號1樓</SimpleData>
+		<SimpleData name="tel">02 -24951015</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.737185,25.024681</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>屏東縣春日鄉衛生所</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_death_rate_pharmarcy">
+		<SimpleData name="county2">屏東縣春日鄉</SimpleData>
+		<SimpleData name="p_tot">3797</SimpleData>
+		<SimpleData name="indigenous_ratio">0.959441664471952</SimpleData>
+		<SimpleData name="death_rate">0.00895443771398472</SimpleData>
+		<SimpleData name="p_serv">1898.5</SimpleData>
+		<SimpleData name="addr">屏東縣春日鄉春日村春日路176號</SimpleData>
+		<SimpleData name="tel">08 -8780358</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.625503,22.37029</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>康健藥局</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_death_rate_pharmarcy">
+		<SimpleData name="county2">屏東縣春日鄉</SimpleData>
+		<SimpleData name="p_tot">3797</SimpleData>
+		<SimpleData name="indigenous_ratio">0.959441664471952</SimpleData>
+		<SimpleData name="death_rate">0.00895443771398472</SimpleData>
+		<SimpleData name="p_serv">1898.5</SimpleData>
+		<SimpleData name="addr">屏東縣春日鄉春日村春日路１８-１號</SimpleData>
+		<SimpleData name="tel">8782098</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.623532,22.369848</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>伯安健康藥局</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_death_rate_pharmarcy">
+		<SimpleData name="county2">臺東縣長濱鄉</SimpleData>
+		<SimpleData name="p_tot">6703</SimpleData>
+		<SimpleData name="indigenous_ratio">0.5955542294495</SimpleData>
+		<SimpleData name="death_rate">0.00880202894226466</SimpleData>
+		<SimpleData name="p_serv">3351.5</SimpleData>
+		<SimpleData name="addr">臺東縣長濱鄉長濱村１０鄰長濱路１０５號</SimpleData>
+		<SimpleData name="tel">832519</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.455883,23.318132</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>台東縣長濱鄉衛生所</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_death_rate_pharmarcy">
+		<SimpleData name="county2">臺東縣長濱鄉</SimpleData>
+		<SimpleData name="p_tot">6703</SimpleData>
+		<SimpleData name="indigenous_ratio">0.5955542294495</SimpleData>
+		<SimpleData name="death_rate">0.00880202894226466</SimpleData>
+		<SimpleData name="p_serv">3351.5</SimpleData>
+		<SimpleData name="addr">台東縣長濱鄉中興４６號</SimpleData>
+		<SimpleData name="tel">(089)831022</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.453933,23.318794</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>維康藥局</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_death_rate_pharmarcy">
+		<SimpleData name="county2">高雄市甲仙區</SimpleData>
+		<SimpleData name="p_tot">5914</SimpleData>
+		<SimpleData name="indigenous_ratio">0.0197835644234021</SimpleData>
+		<SimpleData name="death_rate">0.00879269529928982</SimpleData>
+		<SimpleData name="p_serv">1182.8</SimpleData>
+		<SimpleData name="addr">高雄市甲仙區西安里中正路２２號</SimpleData>
+		<SimpleData name="tel">6752585</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.588499,23.082911</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>永富藥局</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_death_rate_pharmarcy">
+		<SimpleData name="county2">高雄市甲仙區</SimpleData>
+		<SimpleData name="p_tot">5914</SimpleData>
+		<SimpleData name="indigenous_ratio">0.0197835644234021</SimpleData>
+		<SimpleData name="death_rate">0.00879269529928982</SimpleData>
+		<SimpleData name="p_serv">1182.8</SimpleData>
+		<SimpleData name="addr">高雄市甲仙區和安街３０號</SimpleData>
+		<SimpleData name="tel">6754383</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.589577,23.08265</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>宏仁藥局</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_death_rate_pharmarcy">
+		<SimpleData name="county2">高雄市甲仙區</SimpleData>
+		<SimpleData name="p_tot">5914</SimpleData>
+		<SimpleData name="indigenous_ratio">0.0197835644234021</SimpleData>
+		<SimpleData name="death_rate">0.00879269529928982</SimpleData>
+		<SimpleData name="p_serv">1182.8</SimpleData>
+		<SimpleData name="addr">高雄市甲仙區東安里和安街４８號</SimpleData>
+		<SimpleData name="tel">6751255</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.589417,23.083483</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>高雄市甲仙區衛生所</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_death_rate_pharmarcy">
+		<SimpleData name="county2">高雄市甲仙區</SimpleData>
+		<SimpleData name="p_tot">5914</SimpleData>
+		<SimpleData name="indigenous_ratio">0.0197835644234021</SimpleData>
+		<SimpleData name="death_rate">0.00879269529928982</SimpleData>
+		<SimpleData name="p_serv">1182.8</SimpleData>
+		<SimpleData name="addr">高雄市甲仙區和安里中山路52號</SimpleData>
+		<SimpleData name="tel">07 -6751029</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.587454,23.083935</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>文殊堂藥局</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_death_rate_pharmarcy">
+		<SimpleData name="county2">高雄市甲仙區</SimpleData>
+		<SimpleData name="p_tot">5914</SimpleData>
+		<SimpleData name="indigenous_ratio">0.0197835644234021</SimpleData>
+		<SimpleData name="death_rate">0.00879269529928982</SimpleData>
+		<SimpleData name="p_serv">1182.8</SimpleData>
+		<SimpleData name="addr">高雄市甲仙區西安里文化路２２號</SimpleData>
+		<SimpleData name="tel">6752176</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.589408,23.081938</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>高雄市桃源區衛生所</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_death_rate_pharmarcy">
+		<SimpleData name="county2">高雄市桃源區</SimpleData>
+		<SimpleData name="p_tot">4134</SimpleData>
+		<SimpleData name="indigenous_ratio">0.918964683115627</SimpleData>
+		<SimpleData name="death_rate">0.00846637639090469</SimpleData>
+		<SimpleData name="p_serv">4134</SimpleData>
+		<SimpleData name="addr">高雄市桃源區桃源里南進巷188－1號</SimpleData>
+		<SimpleData name="tel">07 -6861126</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.764176,23.158454</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>家佳福藥局</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_death_rate_pharmarcy">
+		<SimpleData name="county2">新竹縣尖石鄉</SimpleData>
+		<SimpleData name="p_tot">9604</SimpleData>
+		<SimpleData name="indigenous_ratio">0.878175760099958</SimpleData>
+		<SimpleData name="death_rate">0.00832986255726781</SimpleData>
+		<SimpleData name="p_serv">4802</SimpleData>
+		<SimpleData name="addr">新竹縣尖石鄉嘉樂村2鄰麥樹仁59號</SimpleData>
+		<SimpleData name="tel">5842808</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.202092,24.705835</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>新竹縣尖石鄉衛生所</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_death_rate_pharmarcy">
+		<SimpleData name="county2">新竹縣尖石鄉</SimpleData>
+		<SimpleData name="p_tot">9604</SimpleData>
+		<SimpleData name="indigenous_ratio">0.878175760099958</SimpleData>
+		<SimpleData name="death_rate">0.00832986255726781</SimpleData>
+		<SimpleData name="p_serv">4802</SimpleData>
+		<SimpleData name="addr">新竹縣尖石鄉嘉樂村2鄰61號</SimpleData>
+		<SimpleData name="tel">03 -5842356</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.202274,24.70562</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>台東縣延平鄉衛生所</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_death_rate_pharmarcy">
+		<SimpleData name="county2">臺東縣延平鄉</SimpleData>
+		<SimpleData name="p_tot">3503</SimpleData>
+		<SimpleData name="indigenous_ratio">0.923208678275764</SimpleData>
+		<SimpleData name="death_rate">0.00827861832714816</SimpleData>
+		<SimpleData name="p_serv">3503</SimpleData>
+		<SimpleData name="addr">台東縣延平鄉桃源村昇平路11號</SimpleData>
+		<SimpleData name="tel">089-561040</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.085455,22.902171</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>高雄市茂林區衛生所</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_death_rate_pharmarcy">
+		<SimpleData name="county2">高雄市茂林區</SimpleData>
+		<SimpleData name="p_tot">1935</SimpleData>
+		<SimpleData name="indigenous_ratio">0.941602067183463</SimpleData>
+		<SimpleData name="death_rate">0.0082687338501292</SimpleData>
+		<SimpleData name="p_serv">1935</SimpleData>
+		<SimpleData name="addr">高雄市茂林區茂林里茂林巷8－4號</SimpleData>
+		<SimpleData name="tel">07 -6801046</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.664111,22.886411</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>莊藥局</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_death_rate_pharmarcy">
+		<SimpleData name="county2">花蓮縣玉里鎮</SimpleData>
+		<SimpleData name="p_tot">23532</SimpleData>
+		<SimpleData name="indigenous_ratio">0.323559408465069</SimpleData>
+		<SimpleData name="death_rate">0.00824409314975353</SimpleData>
+		<SimpleData name="p_serv">2941.5</SimpleData>
+		<SimpleData name="addr">花蓮縣玉里鎮中城里２７鄰成功街９５號</SimpleData>
+		<SimpleData name="tel">8882328</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.313957,23.330834</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>仁仁藥局</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_death_rate_pharmarcy">
+		<SimpleData name="county2">花蓮縣玉里鎮</SimpleData>
+		<SimpleData name="p_tot">23532</SimpleData>
+		<SimpleData name="indigenous_ratio">0.323559408465069</SimpleData>
+		<SimpleData name="death_rate">0.00824409314975353</SimpleData>
+		<SimpleData name="p_serv">2941.5</SimpleData>
+		<SimpleData name="addr">花蓮縣玉里鎮光復路１５２號</SimpleData>
+		<SimpleData name="tel">8886566</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.313206,23.331436</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>里安藥局</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_death_rate_pharmarcy">
+		<SimpleData name="county2">花蓮縣玉里鎮</SimpleData>
+		<SimpleData name="p_tot">23532</SimpleData>
+		<SimpleData name="indigenous_ratio">0.323559408465069</SimpleData>
+		<SimpleData name="death_rate">0.00824409314975353</SimpleData>
+		<SimpleData name="p_serv">2941.5</SimpleData>
+		<SimpleData name="addr">花蓮縣玉里鎮復興街３０號</SimpleData>
+		<SimpleData name="tel">883737</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.31298,23.332302</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>德興藥局</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_death_rate_pharmarcy">
+		<SimpleData name="county2">花蓮縣玉里鎮</SimpleData>
+		<SimpleData name="p_tot">23532</SimpleData>
+		<SimpleData name="indigenous_ratio">0.323559408465069</SimpleData>
+		<SimpleData name="death_rate">0.00824409314975353</SimpleData>
+		<SimpleData name="p_serv">2941.5</SimpleData>
+		<SimpleData name="addr">花蓮縣玉里鎮國武里中山路２段５８號</SimpleData>
+		<SimpleData name="tel">8889408</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.315149,23.333096</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>錦玉藥局</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_death_rate_pharmarcy">
+		<SimpleData name="county2">花蓮縣玉里鎮</SimpleData>
+		<SimpleData name="p_tot">23532</SimpleData>
+		<SimpleData name="indigenous_ratio">0.323559408465069</SimpleData>
+		<SimpleData name="death_rate">0.00824409314975353</SimpleData>
+		<SimpleData name="p_serv">2941.5</SimpleData>
+		<SimpleData name="addr">花蓮縣玉里鎮民生街４４巷３１號</SimpleData>
+		<SimpleData name="tel">8880648</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.316705,23.334303</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>花蓮縣玉里鎮衛生所</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_death_rate_pharmarcy">
+		<SimpleData name="county2">花蓮縣玉里鎮</SimpleData>
+		<SimpleData name="p_tot">23532</SimpleData>
+		<SimpleData name="indigenous_ratio">0.323559408465069</SimpleData>
+		<SimpleData name="death_rate">0.00824409314975353</SimpleData>
+		<SimpleData name="p_serv">2941.5</SimpleData>
+		<SimpleData name="addr">花蓮縣玉里鎮泰昌里中正路152號</SimpleData>
+		<SimpleData name="tel">03 -8882046</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.314916,23.336409</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>仁德藥局</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_death_rate_pharmarcy">
+		<SimpleData name="county2">花蓮縣玉里鎮</SimpleData>
+		<SimpleData name="p_tot">23532</SimpleData>
+		<SimpleData name="indigenous_ratio">0.323559408465069</SimpleData>
+		<SimpleData name="death_rate">0.00824409314975353</SimpleData>
+		<SimpleData name="p_serv">2941.5</SimpleData>
+		<SimpleData name="addr">花蓮縣玉里鎮中華路１４０號</SimpleData>
+		<SimpleData name="tel">8882333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.315093,23.3371</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>東玉藥局</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_death_rate_pharmarcy">
+		<SimpleData name="county2">花蓮縣玉里鎮</SimpleData>
+		<SimpleData name="p_tot">23532</SimpleData>
+		<SimpleData name="indigenous_ratio">0.323559408465069</SimpleData>
+		<SimpleData name="death_rate">0.00824409314975353</SimpleData>
+		<SimpleData name="p_serv">2941.5</SimpleData>
+		<SimpleData name="addr">花蓮縣玉里鎮大同路４５－２號</SimpleData>
+		<SimpleData name="tel">8884617</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.314478,23.326299</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>莊淳溢藥局</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_death_rate_pharmarcy">
+		<SimpleData name="county2">屏東縣枋山鄉</SimpleData>
+		<SimpleData name="p_tot">5260</SimpleData>
+		<SimpleData name="indigenous_ratio">0.0328897338403042</SimpleData>
+		<SimpleData name="death_rate">0.00817490494296578</SimpleData>
+		<SimpleData name="p_serv">2630</SimpleData>
+		<SimpleData name="addr">屏東縣枋山鄉善餘村德隆路35-1號</SimpleData>
+		<SimpleData name="tel">8771836</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.691528,22.191437</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>屏東縣枋山鄉衛生所</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_death_rate_pharmarcy">
+		<SimpleData name="county2">屏東縣枋山鄉</SimpleData>
+		<SimpleData name="p_tot">5260</SimpleData>
+		<SimpleData name="indigenous_ratio">0.0328897338403042</SimpleData>
+		<SimpleData name="death_rate">0.00817490494296578</SimpleData>
+		<SimpleData name="p_serv">2630</SimpleData>
+		<SimpleData name="addr">屏東縣枋山鄉枋山村枋山路98號</SimpleData>
+		<SimpleData name="tel">08 -8761150</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.652705,22.26464</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>屏東縣泰武鄉衛生所</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_death_rate_pharmarcy">
+		<SimpleData name="county2">屏東縣泰武鄉</SimpleData>
+		<SimpleData name="p_tot">4533</SimpleData>
+		<SimpleData name="indigenous_ratio">0.971542025148908</SimpleData>
+		<SimpleData name="death_rate">0.00816236487977057</SimpleData>
+		<SimpleData name="p_serv">4533</SimpleData>
+		<SimpleData name="addr">屏東縣泰武鄉佳平村179號</SimpleData>
+		<SimpleData name="tel">08 -7832059</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.632685,22.592122</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>臺南市左鎮區衛生所</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_death_rate_pharmarcy">
+		<SimpleData name="county2">臺南市左鎮區</SimpleData>
+		<SimpleData name="p_tot">4712</SimpleData>
+		<SimpleData name="indigenous_ratio">0.00403225806451613</SimpleData>
+		<SimpleData name="death_rate">0.00785229202037351</SimpleData>
+		<SimpleData name="p_serv">2356</SimpleData>
+		<SimpleData name="addr">臺南市左鎮區中正里172之15號</SimpleData>
+		<SimpleData name="tel">06 -5731114</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.408886,23.056603</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>又佳藥局</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_death_rate_pharmarcy">
+		<SimpleData name="county2">臺南市左鎮區</SimpleData>
+		<SimpleData name="p_tot">4712</SimpleData>
+		<SimpleData name="indigenous_ratio">0.00403225806451613</SimpleData>
+		<SimpleData name="death_rate">0.00785229202037351</SimpleData>
+		<SimpleData name="p_serv">2356</SimpleData>
+		<SimpleData name="addr">臺南市左鎮區中正里１５６之９號</SimpleData>
+		<SimpleData name="tel">5732367</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.408597,23.058868</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>山芙蓉藥局</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_death_rate_pharmarcy">
+		<SimpleData name="county2">嘉義縣阿里山鄉</SimpleData>
+		<SimpleData name="p_tot">5489</SimpleData>
+		<SimpleData name="indigenous_ratio">0.638732009473492</SimpleData>
+		<SimpleData name="death_rate">0.00783384951721625</SimpleData>
+		<SimpleData name="p_serv">2744.5</SimpleData>
+		<SimpleData name="addr">嘉義縣阿里山鄉樂野村８－３號</SimpleData>
+		<SimpleData name="tel">2561198</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.702529,23.472544</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>嘉義縣阿里山鄉衛生所</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_death_rate_pharmarcy">
+		<SimpleData name="county2">嘉義縣阿里山鄉</SimpleData>
+		<SimpleData name="p_tot">5489</SimpleData>
+		<SimpleData name="indigenous_ratio">0.638732009473492</SimpleData>
+		<SimpleData name="death_rate">0.00783384951721625</SimpleData>
+		<SimpleData name="p_serv">2744.5</SimpleData>
+		<SimpleData name="addr">嘉義縣阿里山鄉樂野村3鄰97－2號</SimpleData>
+		<SimpleData name="tel">05 -2561573</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.701886,23.466598</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>屏東縣滿州鄉衛生所</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_death_rate_pharmarcy">
+		<SimpleData name="county2">屏東縣滿州鄉</SimpleData>
+		<SimpleData name="p_tot">7410</SimpleData>
+		<SimpleData name="indigenous_ratio">0.274089068825911</SimpleData>
+		<SimpleData name="death_rate">0.00769230769230769</SimpleData>
+		<SimpleData name="p_serv">7410</SimpleData>
+		<SimpleData name="addr">屏東縣滿州鄉滿州村中山路31號</SimpleData>
+		<SimpleData name="tel">08 -8801279</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.83805,22.018983</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

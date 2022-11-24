@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="top_20_highest_people_served_pharmacy_table" id="top_20_highest_people_served_pharmacy_table">
+	<SimpleField name="county2" type="string"></SimpleField>
+	<SimpleField name="p_tot" type="float"></SimpleField>
+	<SimpleField name="o_tot" type="float"></SimpleField>
+	<SimpleField name="indigenous_ratio" type="float"></SimpleField>
+	<SimpleField name="p_serv" type="float"></SimpleField>
+	<SimpleField name="addr" type="string"></SimpleField>
+	<SimpleField name="tel" type="string"></SimpleField>
+</Schema>
+<Folder><name>top_20_highest_people_served_pharmacy_table</name>
+  <Placemark>
+	<name>金門縣金寧鄉衛生所</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_people_served_pharmacy_table">
+		<SimpleData name="county2">金門縣金寧鄉</SimpleData>
+		<SimpleData name="p_tot">31798</SimpleData>
+		<SimpleData name="o_tot">286</SimpleData>
+		<SimpleData name="indigenous_ratio">0.00899427636958299</SimpleData>
+		<SimpleData name="p_serv">31798</SimpleData>
+		<SimpleData name="addr">金門縣金寧鄉盤山村仁愛新屯2之1號</SimpleData>
+		<SimpleData name="tel">082-325735</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>118.337384,24.444791</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>南投縣鹿谷鄉衛生所</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_people_served_pharmacy_table">
+		<SimpleData name="county2">南投縣鹿谷鄉</SimpleData>
+		<SimpleData name="p_tot">17346</SimpleData>
+		<SimpleData name="o_tot">56</SimpleData>
+		<SimpleData name="indigenous_ratio">0.00322841000807102</SimpleData>
+		<SimpleData name="p_serv">17346</SimpleData>
+		<SimpleData name="addr">南投縣鹿谷鄉中正路二段20號</SimpleData>
+		<SimpleData name="tel">049-2752002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.754245,23.744882</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>花蓮縣秀林鄉衛生所</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_people_served_pharmacy_table">
+		<SimpleData name="county2">花蓮縣秀林鄉</SimpleData>
+		<SimpleData name="p_tot">15884</SimpleData>
+		<SimpleData name="o_tot">14052</SimpleData>
+		<SimpleData name="indigenous_ratio">0.884663812641652</SimpleData>
+		<SimpleData name="p_serv">15884</SimpleData>
+		<SimpleData name="addr">花蓮縣秀林鄉秀林村12鄰秀林路88號</SimpleData>
+		<SimpleData name="tel">03 -8612122</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.63337,24.126902</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>高雄市永安區衛生所</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_people_served_pharmacy_table">
+		<SimpleData name="county2">高雄市永安區</SimpleData>
+		<SimpleData name="p_tot">13728</SimpleData>
+		<SimpleData name="o_tot">76</SimpleData>
+		<SimpleData name="indigenous_ratio">0.00553613053613054</SimpleData>
+		<SimpleData name="p_serv">13728</SimpleData>
+		<SimpleData name="addr">高雄市永安區永安路26號</SimpleData>
+		<SimpleData name="tel">07 -6912015</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.225366,22.818792</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>金門縣烈嶼鄉衛生所</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_people_served_pharmacy_table">
+		<SimpleData name="county2">金門縣烈嶼鄉</SimpleData>
+		<SimpleData name="p_tot">12687</SimpleData>
+		<SimpleData name="o_tot">48</SimpleData>
+		<SimpleData name="indigenous_ratio">0.00378340033104753</SimpleData>
+		<SimpleData name="p_serv">12687</SimpleData>
+		<SimpleData name="addr">金門縣烈嶼鄉西口村西方6－5號</SimpleData>
+		<SimpleData name="tel">082-362078</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>118.239531,24.435193</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>新竹縣橫山鄉衛生所</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_people_served_pharmacy_table">
+		<SimpleData name="county2">新竹縣橫山鄉</SimpleData>
+		<SimpleData name="p_tot">12673</SimpleData>
+		<SimpleData name="o_tot">300</SimpleData>
+		<SimpleData name="indigenous_ratio">0.0236723743391462</SimpleData>
+		<SimpleData name="p_serv">12673</SimpleData>
+		<SimpleData name="addr">新竹縣橫山鄉大肚村3鄰新興街141巷10號</SimpleData>
+		<SimpleData name="tel">03 -5932004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.13928,24.717563</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>苗栗縣造橋鄉衛生所</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_people_served_pharmacy_table">
+		<SimpleData name="county2">苗栗縣造橋鄉</SimpleData>
+		<SimpleData name="p_tot">12326</SimpleData>
+		<SimpleData name="o_tot">110</SimpleData>
+		<SimpleData name="indigenous_ratio">0.0089242252149927</SimpleData>
+		<SimpleData name="p_serv">12326</SimpleData>
+		<SimpleData name="addr">苗栗縣造橋鄉造橋村14鄰8－2號</SimpleData>
+		<SimpleData name="tel">037-542755</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.864293,24.636724</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>新北市貢寮區衛生所</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_people_served_pharmacy_table">
+		<SimpleData name="county2">新北市貢寮區</SimpleData>
+		<SimpleData name="p_tot">12264</SimpleData>
+		<SimpleData name="o_tot">97</SimpleData>
+		<SimpleData name="indigenous_ratio">0.00790932811480757</SimpleData>
+		<SimpleData name="p_serv">12264</SimpleData>
+		<SimpleData name="addr">新北市貢寮區朝陽街70巷10號、新北市貢寮區仁愛路128號</SimpleData>
+		<SimpleData name="tel">02 -24901431</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.927504,25.055024</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>壯圍藥局</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_people_served_pharmacy_table">
+		<SimpleData name="county2">宜蘭縣壯圍鄉</SimpleData>
+		<SimpleData name="p_tot">24300</SimpleData>
+		<SimpleData name="o_tot">215</SimpleData>
+		<SimpleData name="indigenous_ratio">0.0088477366255144</SimpleData>
+		<SimpleData name="p_serv">12150</SimpleData>
+		<SimpleData name="addr">宜蘭縣壯圍鄉吉祥村壯五路２７９號</SimpleData>
+		<SimpleData name="tel">9388948</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.785375,24.746429</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>宜蘭縣壯圍鄉衛生所</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_people_served_pharmacy_table">
+		<SimpleData name="county2">宜蘭縣壯圍鄉</SimpleData>
+		<SimpleData name="p_tot">24300</SimpleData>
+		<SimpleData name="o_tot">215</SimpleData>
+		<SimpleData name="indigenous_ratio">0.0088477366255144</SimpleData>
+		<SimpleData name="p_serv">12150</SimpleData>
+		<SimpleData name="addr">宜蘭縣壯圍鄉中央路2段290號</SimpleData>
+		<SimpleData name="tel">03 -9385503</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.786319,24.74675</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>嘉義縣東石鄉衛生所</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_people_served_pharmacy_table">
+		<SimpleData name="county2">嘉義縣東石鄉</SimpleData>
+		<SimpleData name="p_tot">23984</SimpleData>
+		<SimpleData name="o_tot">65</SimpleData>
+		<SimpleData name="indigenous_ratio">0.0027101400933956</SimpleData>
+		<SimpleData name="p_serv">11992</SimpleData>
+		<SimpleData name="addr">嘉義縣東石鄉東石村3之7號</SimpleData>
+		<SimpleData name="tel">05 -3732340</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.154086,23.459259</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>長生健保藥局</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_people_served_pharmacy_table">
+		<SimpleData name="county2">嘉義縣東石鄉</SimpleData>
+		<SimpleData name="p_tot">23984</SimpleData>
+		<SimpleData name="o_tot">65</SimpleData>
+		<SimpleData name="indigenous_ratio">0.0027101400933956</SimpleData>
+		<SimpleData name="p_serv">11992</SimpleData>
+		<SimpleData name="addr">嘉義縣東石鄉東石村東石村２６０號</SimpleData>
+		<SimpleData name="tel">3732557</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.140547,23.453557</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>嘉義縣六腳鄉衛生所</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_people_served_pharmacy_table">
+		<SimpleData name="county2">嘉義縣六腳鄉</SimpleData>
+		<SimpleData name="p_tot">21964</SimpleData>
+		<SimpleData name="o_tot">49</SimpleData>
+		<SimpleData name="indigenous_ratio">0.00223092332908396</SimpleData>
+		<SimpleData name="p_serv">10982</SimpleData>
+		<SimpleData name="addr">嘉義縣六腳鄉蒜頭村15鄰蒜頭73－1號</SimpleData>
+		<SimpleData name="tel">05 -3802016</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.290468,23.492886</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>良信藥局</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_people_served_pharmacy_table">
+		<SimpleData name="county2">嘉義縣六腳鄉</SimpleData>
+		<SimpleData name="p_tot">21964</SimpleData>
+		<SimpleData name="o_tot">49</SimpleData>
+		<SimpleData name="indigenous_ratio">0.00223092332908396</SimpleData>
+		<SimpleData name="p_serv">10982</SimpleData>
+		<SimpleData name="addr">嘉義縣六腳鄉蒜頭村１９０－５號</SimpleData>
+		<SimpleData name="tel">3805085</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.291989,23.49489</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>宜蘭縣三星鄉衛生所</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_people_served_pharmacy_table">
+		<SimpleData name="county2">宜蘭縣三星鄉</SimpleData>
+		<SimpleData name="p_tot">21026</SimpleData>
+		<SimpleData name="o_tot">564</SimpleData>
+		<SimpleData name="indigenous_ratio">0.026823932274327</SimpleData>
+		<SimpleData name="p_serv">10513</SimpleData>
+		<SimpleData name="addr">宜蘭縣三星鄉三星路5段70號</SimpleData>
+		<SimpleData name="tel">03 -9892227</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.651549,24.666119</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>三星健保藥局</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_people_served_pharmacy_table">
+		<SimpleData name="county2">宜蘭縣三星鄉</SimpleData>
+		<SimpleData name="p_tot">21026</SimpleData>
+		<SimpleData name="o_tot">564</SimpleData>
+		<SimpleData name="indigenous_ratio">0.026823932274327</SimpleData>
+		<SimpleData name="p_serv">10513</SimpleData>
+		<SimpleData name="addr">宜蘭縣三星鄉三星路５段５１號</SimpleData>
+		<SimpleData name="tel">9895816</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.651497,24.665884</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>金門縣金沙鎮衛生所</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_people_served_pharmacy_table">
+		<SimpleData name="county2">金門縣金沙鎮</SimpleData>
+		<SimpleData name="p_tot">20692</SimpleData>
+		<SimpleData name="o_tot">171</SimpleData>
+		<SimpleData name="indigenous_ratio">0.0082640634061473</SimpleData>
+		<SimpleData name="p_serv">10346</SimpleData>
+		<SimpleData name="addr">金門縣金沙鎮三民路16號</SimpleData>
+		<SimpleData name="tel">082-333597</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>118.413257,24.489498</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>大金藥局</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_people_served_pharmacy_table">
+		<SimpleData name="county2">金門縣金沙鎮</SimpleData>
+		<SimpleData name="p_tot">20692</SimpleData>
+		<SimpleData name="o_tot">171</SimpleData>
+		<SimpleData name="indigenous_ratio">0.0082640634061473</SimpleData>
+		<SimpleData name="p_serv">10346</SimpleData>
+		<SimpleData name="addr">金門縣金沙鎮汶沙里五福街１號</SimpleData>
+		<SimpleData name="tel">355382</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>118.412982,24.488342</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>臺南市安定區衛生所</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_people_served_pharmacy_table">
+		<SimpleData name="county2">臺南市安定區</SimpleData>
+		<SimpleData name="p_tot">30478</SimpleData>
+		<SimpleData name="o_tot">132</SimpleData>
+		<SimpleData name="indigenous_ratio">0.00433099284729969</SimpleData>
+		<SimpleData name="p_serv">10159.3333333333</SimpleData>
+		<SimpleData name="addr">臺南市安定區安定里59－1號</SimpleData>
+		<SimpleData name="tel">06 -5922022</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.237375,23.121553</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>愛心藥師藥局</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_people_served_pharmacy_table">
+		<SimpleData name="county2">臺南市安定區</SimpleData>
+		<SimpleData name="p_tot">30478</SimpleData>
+		<SimpleData name="o_tot">132</SimpleData>
+		<SimpleData name="indigenous_ratio">0.00433099284729969</SimpleData>
+		<SimpleData name="p_serv">10159.3333333333</SimpleData>
+		<SimpleData name="addr">臺南市安定區港南里港口１４７號</SimpleData>
+		<SimpleData name="tel">5935104</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.233597,23.090652</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>一翔藥局</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_people_served_pharmacy_table">
+		<SimpleData name="county2">臺南市安定區</SimpleData>
+		<SimpleData name="p_tot">30478</SimpleData>
+		<SimpleData name="o_tot">132</SimpleData>
+		<SimpleData name="indigenous_ratio">0.00433099284729969</SimpleData>
+		<SimpleData name="p_serv">10159.3333333333</SimpleData>
+		<SimpleData name="addr">臺南市安定區港南里港口１９６號１樓</SimpleData>
+		<SimpleData name="tel">5935208</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.23232,23.090438</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>金門縣金湖鎮衛生所</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_people_served_pharmacy_table">
+		<SimpleData name="county2">金門縣金湖鎮</SimpleData>
+		<SimpleData name="p_tot">30208</SimpleData>
+		<SimpleData name="o_tot">395</SimpleData>
+		<SimpleData name="indigenous_ratio">0.0130760063559322</SimpleData>
+		<SimpleData name="p_serv">10069.3333333333</SimpleData>
+		<SimpleData name="addr">金門縣金湖鎮正義里成功7號之1</SimpleData>
+		<SimpleData name="tel">082-336662</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>118.389422,24.437676</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>大山藥局</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_people_served_pharmacy_table">
+		<SimpleData name="county2">金門縣金湖鎮</SimpleData>
+		<SimpleData name="p_tot">30208</SimpleData>
+		<SimpleData name="o_tot">395</SimpleData>
+		<SimpleData name="indigenous_ratio">0.0130760063559322</SimpleData>
+		<SimpleData name="p_serv">10069.3333333333</SimpleData>
+		<SimpleData name="addr">金門縣金湖鎮新市里中正路２號、２－２號</SimpleData>
+		<SimpleData name="tel">333290</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>118.416709,24.440356</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>仁愛復興藥局</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_people_served_pharmacy_table">
+		<SimpleData name="county2">金門縣金湖鎮</SimpleData>
+		<SimpleData name="p_tot">30208</SimpleData>
+		<SimpleData name="o_tot">395</SimpleData>
+		<SimpleData name="indigenous_ratio">0.0130760063559322</SimpleData>
+		<SimpleData name="p_serv">10069.3333333333</SimpleData>
+		<SimpleData name="addr">金門縣金湖鎮新市里復興路４０號</SimpleData>
+		<SimpleData name="tel">332368</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>118.416293,24.441233</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>花蓮縣富里鄉衛生所</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_people_served_pharmacy_table">
+		<SimpleData name="county2">花蓮縣富里鄉</SimpleData>
+		<SimpleData name="p_tot">10020</SimpleData>
+		<SimpleData name="o_tot">1712</SimpleData>
+		<SimpleData name="indigenous_ratio">0.170858283433134</SimpleData>
+		<SimpleData name="p_serv">10020</SimpleData>
+		<SimpleData name="addr">花蓮縣富里鄉富里村中山路203號</SimpleData>
+		<SimpleData name="tel">03 -8831029</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.24906,23.178473</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>新竹市香山衛生所</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_people_served_pharmacy_table">
+		<SimpleData name="county2">新竹市香山區</SimpleData>
+		<SimpleData name="p_tot">78760</SimpleData>
+		<SimpleData name="o_tot">1189</SimpleData>
+		<SimpleData name="indigenous_ratio">0.0150964956830879</SimpleData>
+		<SimpleData name="p_serv">9845</SimpleData>
+		<SimpleData name="addr">新竹市香山區牛埔里育德街188號2樓</SimpleData>
+		<SimpleData name="tel">03 -5388109</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.942578,24.79442</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>香山丁丁藥局</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_people_served_pharmacy_table">
+		<SimpleData name="county2">新竹市香山區</SimpleData>
+		<SimpleData name="p_tot">78760</SimpleData>
+		<SimpleData name="o_tot">1189</SimpleData>
+		<SimpleData name="indigenous_ratio">0.0150964956830879</SimpleData>
+		<SimpleData name="p_serv">9845</SimpleData>
+		<SimpleData name="addr">新竹市香山區牛埔東路２４７號１樓</SimpleData>
+		<SimpleData name="tel">5384612</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.944217,24.796131</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>健佑藥局</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_people_served_pharmacy_table">
+		<SimpleData name="county2">新竹市香山區</SimpleData>
+		<SimpleData name="p_tot">78760</SimpleData>
+		<SimpleData name="o_tot">1189</SimpleData>
+		<SimpleData name="indigenous_ratio">0.0150964956830879</SimpleData>
+		<SimpleData name="p_serv">9845</SimpleData>
+		<SimpleData name="addr">新竹市香山區大庄路４５巷６號</SimpleData>
+		<SimpleData name="tel">5306555</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.928473,24.789348</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>高晟藥師藥局</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_people_served_pharmacy_table">
+		<SimpleData name="county2">新竹市香山區</SimpleData>
+		<SimpleData name="p_tot">78760</SimpleData>
+		<SimpleData name="o_tot">1189</SimpleData>
+		<SimpleData name="indigenous_ratio">0.0150964956830879</SimpleData>
+		<SimpleData name="p_serv">9845</SimpleData>
+		<SimpleData name="addr">新竹市香山區大庄路59號</SimpleData>
+		<SimpleData name="tel">5306645</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.927927,24.789637</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>新祥發大藥局</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_people_served_pharmacy_table">
+		<SimpleData name="county2">新竹市香山區</SimpleData>
+		<SimpleData name="p_tot">78760</SimpleData>
+		<SimpleData name="o_tot">1189</SimpleData>
+		<SimpleData name="indigenous_ratio">0.0150964956830879</SimpleData>
+		<SimpleData name="p_serv">9845</SimpleData>
+		<SimpleData name="addr">新竹市香山區香山里１鄰中華路五段４２號</SimpleData>
+		<SimpleData name="tel">5381552</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.927764,24.78814</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>元培藥局</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_people_served_pharmacy_table">
+		<SimpleData name="county2">新竹市香山區</SimpleData>
+		<SimpleData name="p_tot">78760</SimpleData>
+		<SimpleData name="o_tot">1189</SimpleData>
+		<SimpleData name="indigenous_ratio">0.0150964956830879</SimpleData>
+		<SimpleData name="p_serv">9845</SimpleData>
+		<SimpleData name="addr">新竹市香山區元培街３０６號光曜樓１、２樓</SimpleData>
+		<SimpleData name="tel">5937289</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.940408,24.777813</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>速安藥局</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_people_served_pharmacy_table">
+		<SimpleData name="county2">新竹市香山區</SimpleData>
+		<SimpleData name="p_tot">78760</SimpleData>
+		<SimpleData name="o_tot">1189</SimpleData>
+		<SimpleData name="indigenous_ratio">0.0150964956830879</SimpleData>
+		<SimpleData name="p_serv">9845</SimpleData>
+		<SimpleData name="addr">新竹市香山區中華路６段６７６號</SimpleData>
+		<SimpleData name="tel">371557</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.915921,24.730862</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>健安藥局</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_people_served_pharmacy_table">
+		<SimpleData name="county2">新竹市香山區</SimpleData>
+		<SimpleData name="p_tot">78760</SimpleData>
+		<SimpleData name="o_tot">1189</SimpleData>
+		<SimpleData name="indigenous_ratio">0.0150964956830879</SimpleData>
+		<SimpleData name="p_serv">9845</SimpleData>
+		<SimpleData name="addr">新竹市香山區內湖路六十號</SimpleData>
+		<SimpleData name="tel">5370111</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.90578,24.743971</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>苗栗縣南庄鄉衛生所</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_people_served_pharmacy_table">
+		<SimpleData name="county2">苗栗縣南庄鄉</SimpleData>
+		<SimpleData name="p_tot">9708</SimpleData>
+		<SimpleData name="o_tot">2080</SimpleData>
+		<SimpleData name="indigenous_ratio">0.214256283477544</SimpleData>
+		<SimpleData name="p_serv">9708</SimpleData>
+		<SimpleData name="addr">苗栗縣南庄鄉東村大同路17號</SimpleData>
+		<SimpleData name="tel">037-822024</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.999979,24.597334</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>桃園市新屋區衛生所</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_people_served_pharmacy_table">
+		<SimpleData name="county2">桃園市新屋區</SimpleData>
+		<SimpleData name="p_tot">47267</SimpleData>
+		<SimpleData name="o_tot">805</SimpleData>
+		<SimpleData name="indigenous_ratio">0.0170309095140373</SimpleData>
+		<SimpleData name="p_serv">9453.4</SimpleData>
+		<SimpleData name="addr">桃園市新屋區新屋里中山路239號</SimpleData>
+		<SimpleData name="tel">03 -4772018</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.106762,24.972591</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>一間藥局</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_people_served_pharmacy_table">
+		<SimpleData name="county2">桃園市新屋區</SimpleData>
+		<SimpleData name="p_tot">47267</SimpleData>
+		<SimpleData name="o_tot">805</SimpleData>
+		<SimpleData name="indigenous_ratio">0.0170309095140373</SimpleData>
+		<SimpleData name="p_serv">9453.4</SimpleData>
+		<SimpleData name="addr">桃園市新屋區中山路三一二號</SimpleData>
+		<SimpleData name="tel">4772355</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.105656,24.972883</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>謝氏藥局</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_people_served_pharmacy_table">
+		<SimpleData name="county2">桃園市新屋區</SimpleData>
+		<SimpleData name="p_tot">47267</SimpleData>
+		<SimpleData name="o_tot">805</SimpleData>
+		<SimpleData name="indigenous_ratio">0.0170309095140373</SimpleData>
+		<SimpleData name="p_serv">9453.4</SimpleData>
+		<SimpleData name="addr">桃園市新屋區新屋里中華路２９０號</SimpleData>
+		<SimpleData name="tel">4779233</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.10698,24.973395</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>新屋藥局</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_people_served_pharmacy_table">
+		<SimpleData name="county2">桃園市新屋區</SimpleData>
+		<SimpleData name="p_tot">47267</SimpleData>
+		<SimpleData name="o_tot">805</SimpleData>
+		<SimpleData name="indigenous_ratio">0.0170309095140373</SimpleData>
+		<SimpleData name="p_serv">9453.4</SimpleData>
+		<SimpleData name="addr">桃園市新屋區中華路２９４號</SimpleData>
+		<SimpleData name="tel">4971008</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.106946,24.973461</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>宏興藥局</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_people_served_pharmacy_table">
+		<SimpleData name="county2">桃園市新屋區</SimpleData>
+		<SimpleData name="p_tot">47267</SimpleData>
+		<SimpleData name="o_tot">805</SimpleData>
+		<SimpleData name="indigenous_ratio">0.0170309095140373</SimpleData>
+		<SimpleData name="p_serv">9453.4</SimpleData>
+		<SimpleData name="addr">桃園市新屋區新生里中山路４０８號</SimpleData>
+		<SimpleData name="tel">4773181</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.103101,24.972931</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>皇佳藥局</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_people_served_pharmacy_table">
+		<SimpleData name="county2">高雄市鳥松區</SimpleData>
+		<SimpleData name="p_tot">46449</SimpleData>
+		<SimpleData name="o_tot">294</SimpleData>
+		<SimpleData name="indigenous_ratio">0.00632952270231867</SimpleData>
+		<SimpleData name="p_serv">9289.8</SimpleData>
+		<SimpleData name="addr">高雄市鳥松區仁美里高碼二路１２號</SimpleData>
+		<SimpleData name="tel">7312918</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.389314,22.657694</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>復元藥局</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_people_served_pharmacy_table">
+		<SimpleData name="county2">高雄市鳥松區</SimpleData>
+		<SimpleData name="p_tot">46449</SimpleData>
+		<SimpleData name="o_tot">294</SimpleData>
+		<SimpleData name="indigenous_ratio">0.00632952270231867</SimpleData>
+		<SimpleData name="p_serv">9289.8</SimpleData>
+		<SimpleData name="addr">高雄市鳥松區鳥松村大仁南路５號</SimpleData>
+		<SimpleData name="tel">7312979</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.362566,22.66233</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>高雄市鳥松區衛生所</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_people_served_pharmacy_table">
+		<SimpleData name="county2">高雄市鳥松區</SimpleData>
+		<SimpleData name="p_tot">46449</SimpleData>
+		<SimpleData name="o_tot">294</SimpleData>
+		<SimpleData name="indigenous_ratio">0.00632952270231867</SimpleData>
+		<SimpleData name="p_serv">9289.8</SimpleData>
+		<SimpleData name="addr">高雄市鳥松區鳥松里文前路文北巷一弄4號</SimpleData>
+		<SimpleData name="tel">07 -7316404</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.362628,22.663135</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>有健藥局</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_people_served_pharmacy_table">
+		<SimpleData name="county2">高雄市鳥松區</SimpleData>
+		<SimpleData name="p_tot">46449</SimpleData>
+		<SimpleData name="o_tot">294</SimpleData>
+		<SimpleData name="indigenous_ratio">0.00632952270231867</SimpleData>
+		<SimpleData name="p_serv">9289.8</SimpleData>
+		<SimpleData name="addr">高雄市鳥松區本館路３４７號</SimpleData>
+		<SimpleData name="tel">3790784</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.3384719,22.6534168</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>本館藥局</name>
+	<ExtendedData><SchemaData schemaUrl="#top_20_highest_people_served_pharmacy_table">
+		<SimpleData name="county2">高雄市鳥松區</SimpleData>
+		<SimpleData name="p_tot">46449</SimpleData>
+		<SimpleData name="o_tot">294</SimpleData>
+		<SimpleData name="indigenous_ratio">0.00632952270231867</SimpleData>
+		<SimpleData name="p_serv">9289.8</SimpleData>
+		<SimpleData name="addr">高雄市鳥松區大華里本館路１９０號１樓</SimpleData>
+		<SimpleData name="tel">3707655</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.3360645,22.6557469</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
