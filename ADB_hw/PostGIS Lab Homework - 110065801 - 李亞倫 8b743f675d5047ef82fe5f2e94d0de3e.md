@@ -596,7 +596,7 @@ Therefore, many enthusiastic people try to collect the coordinates of all the ph
 Now(2022), the pandemic almost gone, instead of knowing which pharmacy still have masks, I want to know: 
 
 1. Does low/hight death rate area have more/less pharmacies there?
-2. Do pharmacies over-served in the Indigenous area?
+2. Do pharmacies over-loaded in the Indigenous area?
 
 To answer this question, first I need to download the maskmap dataset from:
 
@@ -945,7 +945,7 @@ Create index:
 create index on dead2_table using gist(union_geom);
 ```
 
-Then we can ask: Does the number of pharmacy affects the health?  By conbining `dead2_table` and `maskmap2_table`, we can list top 20 highest and lowest death rate region, and see if it correlated to the number of pharmacy?
+The question I want to ask is: Does the number of pharmacy affects the health?  By combining `dead2_table` and `maskmap2_table`, we can list top 20 highest and lowest death rate region, and see if it correlated to the number of pharmacy?
 
 ```sql
 SELECT county2, p_tot, indigenous_ratio, death_rate,
@@ -1131,3 +1131,5 @@ Github code:
 > [https://stackoverflow.com/questions/54321733/import-csv-with-many-columns-to-pgadmin-v4-1](https://stackoverflow.com/questions/54321733/import-csv-with-many-columns-to-pgadmin-v4-1)
 > 8. TESAS | 地方創生資料庫
 > [https://tesas.nat.gov.tw/lflt/references.html](https://tesas.nat.gov.tw/lflt/references.html)
+> 9. 健保特約醫事機構-藥局資料，加入座標 · Issue #2 · WJWang/mask-help-info-api
+> [https://github.com/WJWang/mask-help-info-api/issues/2](https://github.com/WJWang/mask-help-info-api/issues/2)
